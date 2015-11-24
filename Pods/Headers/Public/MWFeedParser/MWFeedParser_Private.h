@@ -1,0 +1,5 @@
+XSym
+0052
+617bf9cbfd4b0c8331c00d9d785a8045
+../../../MWFeedParser/Classes/MWFeedParser_Private.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

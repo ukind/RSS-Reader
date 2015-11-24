@@ -1,0 +1,5 @@
+XSym
+0044
+3a1914c6d396b8d5f8a4c12a40a2dbcf
+../../../MWFeedParser/Classes/MWFeedParser.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
